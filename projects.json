@@ -1,0 +1,30 @@
+[
+  {
+    "title": "ASCII.fy",
+    "desc": "A JavaScript app to convert webcam 📹 feed to ASCII🔟 video in real time ⚡⚡",
+    "liveDemoUrl": "https://asciify-web.herokuapp.com/",
+    "sourceCodeUrl": "https://github.com/Muhammed-Rajab/ASCIIfy",
+    "tags": ["js", "computervision"]
+  },
+  {
+    "title": "Milf💦",
+    "desc": "A programming language🗣️ made in C# with a goal in mind to write📝 pure, functional code⚡⚡.",
+    "liveDemoUrl": "",
+    "sourceCodeUrl": "",
+    "tags": ["c#", "language", "design", "core"]
+  },
+  {
+    "title": "Dope Chain🔗",
+    "desc": "A web-based blockchain🔗 made to understand💡💡 the underlying architecture🗺️ of a blockchain🔗",
+    "liveDemoUrl": "",
+    "sourceCodeUrl": "",
+    "tags": ["ts", "blockchain", "web3", "core"]
+  },
+  {
+    "title": "Linear Regression Visualizer 📈📈",
+    "desc": "✨A simple web application to visualize 📈📈linear regression✨",
+    "liveDemoUrl": "https://linear-regression-visualizer.herokuapp.com/",
+    "sourceCodeUrl": "https://github.com/Muhammed-Rajab/Linear-Regression-Visualizer",
+    "tags": ["machinelearning", "js", "html", "css"]
+  }
+]
