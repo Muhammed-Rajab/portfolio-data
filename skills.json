@@ -1,0 +1,102 @@
+{
+  "Language": [
+    {
+      "title": "javascript",
+      "level": "expert",
+      "color": "#ecdc56"
+    },
+    {
+      "title": "python",
+      "level": "expert",
+      "color": "#3d6f9e"
+    },
+    {
+      "title": "c#",
+      "level": "beginner",
+      "color": "#05930c"
+    },
+    {
+      "title": "typescript",
+      "level": "intermediate",
+      "color": "#3d6f9e"
+    }
+  ],
+  "Frontend frameworks/tools": [
+    {
+      "title": "react.js",
+      "level": "beginner",
+      "color": "#6edafa"
+    },
+    {
+      "title": "HTML",
+      "level": "intermediate",
+      "color": "#ec662a"
+    },
+    {
+      "title": "CSS",
+      "level": "intermediate",
+      "color": "#3b48e3"
+    },
+    {
+      "title": "TAILWIND.CSS",
+      "level": "intermediate",
+      "color": "#4ebcf7"
+    },
+    {
+      "title": "BOOTSTRAP",
+      "level": "intermediate",
+      "color": "#8f00fa"
+    }
+  ],
+  "Backend frameworks/tools": [
+    {
+      "title": "fastapi",
+      "level": "intermediate",
+      "color": "#1e9184"
+    },
+    {
+      "title": "express",
+      "level": "expert",
+      "color": "#3b4954"
+    },
+    {
+      "title": "node",
+      "level": "expert",
+      "color": "#689f63"
+    }
+  ],
+  "Databases": [
+    {
+      "title": "mongodb",
+      "level": "intermediate",
+      "color": "#18ac51"
+    },
+    {
+      "title": "postgresql",
+      "level": "beginner",
+      "color": "#3d6f9e"
+    },
+    {
+      "title": "redis",
+      "level": "beginner",
+      "color": "#d52a1f"
+    }
+  ],
+  "Other tools": [
+    {
+      "title": "linux",
+      "level": "beginner",
+      "color": "#ffe400"
+    },
+    {
+      "title": "git",
+      "level": "beginner",
+      "color": "#ec662a"
+    },
+    {
+      "title": "docker",
+      "level": "beginner",
+      "color": "#4ebcf7"
+    }
+  ]
+}
